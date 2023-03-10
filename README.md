@@ -11,7 +11,7 @@
 Update .env them accordingly.
 
 ```
-
+REACT_APP_BRANCH_IO_KEY=
 ```
 
 ### Setup Dev Env
